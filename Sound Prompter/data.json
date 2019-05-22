@@ -1,0 +1,21 @@
+{"left_hand": [
+	{
+		"index": 1,
+		"name": "do_it",
+		"text" : "Zvedni levou ruku, otevrene oci",
+		"stages_duration": [2,1,0],
+        "eyes": 1,
+		"stages_data": ["audio/left.mp3", "challenges/pause.png"]
+	}
+],
+"right_hand": [
+	{
+		"index": 2,
+		"name": "do_it",
+		"stages_duration": [1,1,0],
+		"text" : "Zvedni pravou ruku, otevrene oci",
+		"stages_data": ["audio/right.mp3", "challenges/pause.png"],
+        "eyes": 1
+	}
+]
+}

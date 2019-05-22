@@ -1,0 +1,173 @@
+{"left_hand": [
+	{
+		"name": "LeftH_1_come",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/1.gif","challenges/left_hand/1.gif"]
+	},
+	{
+		"name": "LeftH_2_punch_wo",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/3.gif","challenges/left_hand/3.gif"]
+	},
+	{
+		"name": "LeftH_3_punch_with",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/3.gif", "challenges/left_hand/3.gif"]
+	},
+	{
+		"name": "LeftH_4_punch",
+		"stages_duration": [1,7,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/2.gif","challenges/left_hand/2.gif"]
+	},
+	{
+		"name": "LeftH_5_wave",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/4.gif","challenges/left_hand/4.gif"]
+	},
+	{
+		"name": "LeftH_6_telekinesis",
+		"stages_duration": [1,9,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/5.gif","challenges/left_hand/5.gif"]
+	},
+	{
+		"name": "LeftH_7_lateral",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/7.gif","challenges/left_hand/7.gif"]
+	},
+	{
+		"name": "LeftH_8_magneto",
+		"stages_duration": [1,19,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/11.gif","challenges/left_hand/11.gif"]
+	},
+	{
+		"name": "LeftH_12_ironman",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/12.gif","challenges/left_hand/12.gif"]
+	},
+	{
+		"name": "LeftH_13_got",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/13.gif","challenges/left_hand/13.gif"]
+	},
+	{
+		"name": "LeftH_14_got",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/left_hand/14.gif","challenges/left_hand/14.gif"]
+	}
+],
+"right_hand": [
+	{
+		"name": "RightH_1_come",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/1.gif","challenges/right_hand/1.gif"]
+	},
+	{
+		"name": "RightH_2_punch",
+		"stages_duration": [1,7,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/2.gif","challenges/right_hand/2.gif"]
+	},
+	{
+		"name": "RightH_3_wallpunch",
+		"stages_duration": [1,8,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/3.gif","challenges/right_hand/3.gif"]
+	},
+	{
+		"name": "RightH_4_punch",
+		"stages_duration": [1,7,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/4.gif","challenges/right_hand/4.gif"]
+	},
+	{
+		"name": "RightH_5_awakened",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/5.gif","challenges/right_hand/5.gif"]
+	},
+	{
+		"name": "RightH_6_pullup",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/6.gif","challenges/right_hand/6.gif"]
+	},
+	{
+		"name": "RightH_7_wave",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/7.gif","challenges/right_hand/7.gif"]
+	},
+	{
+		"name": "RightH_8_punch",
+		"stages_duration": [1,6,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/8.gif","challenges/right_hand/8.gif"]
+	},
+	{
+		"name": "RightH_9_sentinels",
+		"stages_duration": [1,9,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/9.gif","challenges/right_hand/9.gif"]
+	},
+	{
+		"name": "RightH_10_force",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/10.gif","challenges/right_hand/10.gif"]
+	},
+	{
+		"name": "RightH_11_comeon",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/12.gif","challenges/right_hand/12.gif"]
+	},
+	{
+		"name": "RightH_12_lateral",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni predstavovat \n vyobrazeny pohyb (odpovidajici koncetina / cinnost). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/13.gif","challenges/right_hand/13.gif"]
+	},
+	{
+		"name": "RightH_13_bruce",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/8.gif","challenges/right_hand/8.gif"]
+	},
+	{
+		"name": "RightH_14_got",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/14.gif","challenges/right_hand/14.gif"]
+	},
+	{
+		"name": "RightH_15_got",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/15.gif","challenges/right_hand/15.gif"]
+	},
+	{
+		"name": "RightH_16_got",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/16.gif","challenges/right_hand/16.gif"]
+	},
+	{
+		"name": "RightH_17_got",
+		"stages_duration": [1,5,10],
+		"text" : "Podivej se na animaci \n Po jejim skonceni si zacni \n SPOLECNE S ANIMACI predstavovat \n vyobrazeny pohyb (odpovidajici koncetina). \n Pri rozsviceni ZELENE zapocni.",
+		"stages_data": ["challenges/right_hand/17.gif","challenges/right_hand/17.gif"]
+	}
+]
+}
